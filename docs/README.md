@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  Grain rain TTS
+title:  Grainrain TTS
 permalink: /
 ---
 
