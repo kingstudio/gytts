@@ -27,9 +27,14 @@ Please report issues and ask questions on the [GitHub project issue tracker](htt
 ## Donations
 
 Donations are greatly appreciated. If you find Grainrain TTS useful, or are feeling generous and would like to make a donation to this project, we accept donation's via Wechat.
-[![Wechat](https://badges.gitter.im/GrainrainTTS/community.svg)](https://gitter.im/GrainrainTTS/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+![Wechat](/assets/gitbook/images/buymeacoffe.jpg)
 
 ## Features
 
+- Based on NEOSpeech (American English, Chinese) and IVONA (English) voice packs and TTS technology, it provides fluent American, English, Chinese male and female voice computer automatic reading. 
+- Export the text directly to mav to easily make all kinds of English listening.
+- Both male and female voice dialogue, answer pause time, speaking speed and volume can be flexibly set. It can also flexibly set different reading methods of spelling, morphology, numbers and dates.
+
 ## Authors and Contributors
 
+[kingstudio](https://github.com/kingstudio) is the majar contributors for this project.
