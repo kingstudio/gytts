@@ -16,6 +16,8 @@ Grainrain TTS is a Speech synthesis software, from within a fully managed enviro
 - Take a look at the features of Grainrain TTS.
 - View the project on GitHub.
 
+![Wechat](/assets/gitbook/images/grainrain-tts.png)
+
 
 ## Bug reports or questions
 
