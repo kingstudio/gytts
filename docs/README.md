@@ -27,6 +27,7 @@ Please report issues and ask questions on the [GitHub project issue tracker](htt
 ## Donations
 
 Donations are greatly appreciated. If you find Grainrain TTS useful, or are feeling generous and would like to make a donation to this project, we accept donation's via Wechat.
+
 ![Wechat](/assets/gitbook/images/buymeacoffe.jpg)
 
 ## Features
