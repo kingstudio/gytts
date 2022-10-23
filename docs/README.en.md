@@ -1,21 +1,11 @@
 ---
 layout: home
-title:  谷雨语音合成软件
+title:  Grainrain TTS
 permalink: /
 ---
 
-## 谷雨语音合成软件
-谷雨语音合成软件官方网站地址为：[https://tts.grainrain.org.cn](https://tts.grainrain.org.cn), 谷雨语音合成软件基于微软 TTS 引擎的语音合成技术，它的主要特征有：
-- 基于NEOSpeech（美语、中文）与IVONA（英语）语音包与TTS技术，提供流畅的美语、英语、中文男女声电脑自动朗读。
-- 直接将文字导出成wav音频文件，轻松搞定各类英语听力制作、视频旁白制作。
-- 既可灵活设定男女声对话、回答停顿时间、语速与音量。又可灵活设定拼读、词法、数字与日期的不同读法。
+Grainrain TTS 谷雨语音合成软件
 
-![introduction](/assets/gitbook/images/grainrain-tts.png)
-
-导出音频效果：
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="/assets/gitbook/audio/grainrain.mp3">
-</audio>
 ## Welcome to Grainrain TTS
 
 Grainrain TTS is a Speech synthesis software, from within a fully managed environment on 32- or 64-bit Windows XP SP2, Windows Vista x64, Windows Server 2008 x64, Windows 7, Windows 8.1, and Windows 10.
@@ -25,6 +15,9 @@ Grainrain TTS is a Speech synthesis software, from within a fully managed enviro
 - Ask a question or raise issues on the issue tracker or Join the chat at [![Gitter](https://badges.gitter.im/GrainrainTTS/community.svg)](https://gitter.im/GrainrainTTS/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - Take a look at the features of Grainrain TTS.
 - View the project on GitHub.
+
+![Wechat](/assets/gitbook/images/grainrain-tts.png)
+
 
 ## Bug reports or questions
 
